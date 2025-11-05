@@ -57,7 +57,9 @@ This project was built as part of my Capstone to showcase:
 **Jake Chalmers**  
 📍 Developer & Designer passionate about learning tech and building meaningful digital experiences.  
 
-🔗 [Portfolio Website](#) | [LinkedIn](https://www.linkedin.com/in/jakechalmers86/) | [GitHub](https://github.com/JakobCoding)
+🔗 [Portfolio](#)  
+💼 [LinkedIn](https://www.linkedin.com/in/jakechalmers86/)  
+💻 [GitHub](https://github.com/JakobCoding)
 
 ---
 

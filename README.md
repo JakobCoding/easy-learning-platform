@@ -54,7 +54,7 @@ This project was built as part of my Capstone to showcase:
 ---
 
 ## 🧑‍💻 Author
-**Jake Devops**  
+**Jake Chalmers**  
 📍 Developer & Designer passionate about learning tech and building meaningful digital experiences.  
 
 🔗 [Portfolio Website](#) | [LinkedIn](#) | [GitHub](https://github.com/yourusername)
